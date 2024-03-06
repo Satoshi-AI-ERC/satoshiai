@@ -1,6 +1,6 @@
 # Security Policy
 
-This document outlines security procedures and general policies for the `satoshi ai risk` project.
+This document outlines security procedures and general policies for the `satoshi ai` project.
 
 
 ## Reporting a Vulnerability
